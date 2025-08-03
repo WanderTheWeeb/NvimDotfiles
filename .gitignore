@@ -1,3 +1,6 @@
+# Ignore images source
+lua/balatro/jokers/
+
 # Archivos generados automáticamente
 lazy-lock.json
 lazyvim.json
